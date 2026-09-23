@@ -1,5 +1,13 @@
 # Skew Brownian Motion — the code behind the note
 
+<!-- @@ZAMRIK-LINKS:BEGIN@@ -->
+The paper this code belongs to: <https://zamrik.com/research-items/tn-2026-25406484/>
+PDF: <https://zamrik.com/wp-content/uploads/research/skew-brownian-motion.pdf>
+Film: <https://youtu.be/nRtiup3AOYY>
+
+`TN-2026-25406484` · T. Zamrik
+<!-- @@ZAMRIK-LINKS:END@@ -->
+
 Everything that produces the numbers and figures in **Skew Brownian Motion: One Biased
 Site and the Asymmetry It Buys** (`TN-2026-25406484`), published at
 <https://zamrik.com/research-items/tn-2026-25406484/>.
