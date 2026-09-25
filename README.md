@@ -3,7 +3,6 @@
 <!-- @@ZAMRIK-LINKS:BEGIN@@ -->
 The paper this code belongs to: <https://zamrik.com/research-items/tn-2026-25406484/>
 PDF: <https://zamrik.com/wp-content/uploads/research/skew-brownian-motion.pdf>
-Film: <https://youtu.be/nRtiup3AOYY>
 
 `TN-2026-25406484` · T. Zamrik
 <!-- @@ZAMRIK-LINKS:END@@ -->
